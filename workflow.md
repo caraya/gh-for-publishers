@@ -16,7 +16,7 @@ All the skill requirements listed above can be handled through training and supp
 
 The outline below shows the workflow from both a Github and content perspectives. 
 
-![visual outline of process](images/workflow.svg)
+![visual outline of process](images/workflow.png)
 
 ### Setting up the project
 
