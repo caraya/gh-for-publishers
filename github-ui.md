@@ -59,25 +59,25 @@ To the right of the repository window there are a series of links for activities
 
 The first area provides tools to work with the repository content. From top to bototm:
 
-* Code is the default view and it shows the content of your repository
-* Issues list all open issues for your repository. You can also open a new issue from here
-* Pull requests lists all open pull requests for the project. Pull requests are how you contribute to a project if you're not the project owner or a collaborator
-* Wiki content allows you to view the content of the project's wiki and add new pages
+* **Code** is the default view and it shows the content of your repository
+* **Issues** list all open issues for your repository. You can also open a new issue from here
+* **Pull requests** lists all open pull requests for the project. Pull requests are how you contribute to a project if you're not the project owner or a collaborator
+* **Wiki** content allows you to view the content of the project's wiki and add new pages
 
 The second block provides information about your repository
 
-* Pulse gives you a graphical view of number of open and closes issues and pull requests
-* Graph creates multiple graphics for activity in the repository
+* **Pulse** gives you a graphical view of number of open and closes issues and pull requests
+* **Graph** creates multiple graphics for activity in the repository
 
-The third block controls your settings
+The third block controls your repository settings
 
-* Settings
+* **Settings**
 
 The fourth block provides additional ways to download your repository
 
-* HTTPS clone URL gives the URL you can use with command line or graphical tools outside Github
-* Clone in Desktop provides for a way to use [Github Desktop](https://desktop.github.com/) with your repository
-* Download ZIP packs the content of your repository into a zip file for download
+* **HTTPS clone URL** gives the URL you can use with command line or graphical tools outside Github
+* **Clone in Desktop** provides for a way to use [Github Desktop](https://desktop.github.com/) with your repository
+* **Download ZIP** packs the content of your repository into a zip file for download
 
 
 
