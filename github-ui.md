@@ -57,7 +57,7 @@ Right above the list of files on your repository there are 4 icons. They explain
 
 To the right of the repository window there are a series of links for activities that you can perform with your repository and/or its content. It is grouped in 5 areas. 
 
-The first area provides tools to work with the repository content. From top to bototm:
+The first area provides tools to work with the repository content. From top to bottom:
 
 * **Code** is the default view and it shows the content of your repository
 * **Issues** list all open issues for your repository. You can also open a new issue from here
