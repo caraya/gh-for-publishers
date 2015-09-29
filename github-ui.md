@@ -26,6 +26,20 @@ I am using the repository for this project [gh-for-publishers](https://github.co
 
 In order to understand the repository interface, let's look at the different areas of the repository, what they do and how we can best leverage them in a publishing environment. 
 
+### Watches, Stars and Forks
+
+![Watches, Stars and Forks](images/social.png)
+
+These three elements indicate the popularity of your repository.  Each one of these items has a number associated with it and indicates how many people have performed that action. From left to right:
+
+* Watches indicate how many people are following the conversation on/about your repository
+* Stars indicated how many people have starred your repository, they like it but they are not so interested in the social aspects
+* Forks indicated how many people have forked or copied your repository
+
+This information may not be relevant for smaller projects or those where you work directly with your client and no one else. Still they help measure the health of a repository and associated project. The example below is from the [Twitter Bootstrap](https://github.com/twbs/bootstrap) repository.
+
+![Social repo info for Bootstrap](images/social-for-bootstrap.png)
+
 ### Information about the repository
 
 ![Information about the repository](images/information-about-repository.png)
