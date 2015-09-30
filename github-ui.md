@@ -60,8 +60,8 @@ To the right of the repository window there are a series of links for activities
 The first area provides tools to work with the repository content. From top to bottom:
 
 * **Code** is the default view and it shows the content of your repository
-* **Issues** list all open issues for your repository. You can also open a new issue from here
-* **Pull requests** lists all open pull requests for the project. Pull requests are how you contribute to a project if you're not the project owner or a collaborator
+* **Issues** list issues for your repository; you can choose whether to see open or closed issues. You can also open a new issue from here
+* **Pull requests** lists pull requests for the project; you can choose whether to see open or closed PRs. Pull requests are how you contribute to a project if you're not the project owner or a collaborator
 * **Wiki** content allows you to view the content of the project's wiki and add new pages
 
 The second block provides information about your repository
