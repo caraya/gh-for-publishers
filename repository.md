@@ -1,16 +1,26 @@
-# Repositories
+# Git for publishers overview
 
-## Types of repositories
+## Repositories
 
-### Public
+### Types of repositories
 
-### Private
+#### Public
 
-## Roles in repositories
+#### Private
 
-### Owner
+### Roles in repositories
 
-### Collaborator
+#### Owner
 
-## Actions on the repository
+#### Collaborator
 
+### Actions by repo owner
+
+#### Adding collaborators
+
+
+## Actions by others
+
+### Forking Repo
+
+### Submitting a pull request

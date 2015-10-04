@@ -119,5 +119,7 @@ There are times when managing issues in a repository can be overwhelming, partic
 
 ![Waffle.io Repository List](images/waffle-io.png)
 
+Perhaps the only downside of the tool is that it requires you to have an account in Github and to be made a collaborator in the project. Something that you may do anyway but has to be taken into account regardless.
+
 
 ![Waffle.io Project Board](images/waffle-io-board.png)
