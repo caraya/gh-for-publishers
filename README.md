@@ -1,4 +1,4 @@
-# Git for Publishers
+# Github for Publishers
 
 This series will explore GIT, what it is, what options do we have to use it and how can we best leverage the technology in a publishing environment.
 
@@ -68,17 +68,21 @@ The right side of the screen has two repository listings: The top one contains r
 
 The second set of repositories are those you own. You've created them and now are your responsibility. 
 
-## What a repository look like?
+## Github and Alternatives
+
+# Concepts and Terminology
+
+## Repository
 
 ![Github Repository](images/repository.png)
 
 I am using the repository for this project [gh-for-publishers](https://github.com/caraya/gh-for-publishers) as the model repository moving forward
 
-## What does the repository offer?
+### What does the repository offer?
 
 In order to understand the repository interface, let's look at the different areas of the repository, what they do and how we can best leverage them in a publishing environment. 
 
-### Watches, Stars and Forks
+#### Watches, Stars and Forks
 
 ![Watches, Stars and Forks](images/social.png)
 
@@ -92,7 +96,7 @@ This information may not be relevant for smaller projects or those where you wor
 
 ![Social repo info for Bootstrap](images/social-for-bootstrap.png)
 
-### Information about the repository
+#### Information about the repository
 
 ![Information about the repository](images/information-about-repository.png)
 
@@ -103,7 +107,7 @@ Right above the list of files on your repository there are 4 icons. They explain
 * Number of releases: how many releases have you made from the code in the repository?
 * Number of collaborators: how many people are helping in the repository
 
-## What you can do with the repo
+#### What you can do with the repo
 
 ![Repository Activities](images/repo-activities.png)
 
@@ -131,20 +135,16 @@ The fourth block provides additional ways to download your repository
 * **Clone in Desktop** provides for a way to use [Github Desktop](https://desktop.github.com/) with your repository
 * **Download ZIP** packs the content of your repository into a zip file for download
 
-### Concepts and Terminology
+## Branches
 
-#### Repository
+## Issues
 
-#### Branches
+## Pull Requests
 
-#### Issues
+# Case Studies and Ideas
 
-#### Pull Requests
+## Single Developer
 
-### Case Studies and Ideas
+## Local Team
 
-#### Single Developer
-
-#### Local Team
-
-#### Geographically Distributed Team
+## Geographically Distributed Team
